@@ -1,0 +1,7 @@
+/data/combined/*
+/data/processed/*
+/data/results/*
+/data/ssEYE/*
+/data/ssLFP/*
+
+/plots/*
